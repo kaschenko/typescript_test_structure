@@ -1,0 +1,39 @@
+
+.specialForm {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.customInput {
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+.customDiv {
+    font-size: 20px
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+}
+.customButton {
+    margin-top: 15px;
+    margin-left: calc(50vw - 100px);
+    height: 40px;
+    width: 200px;
+
+}
+
+.customColumn {
+    min-height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-top: 10px;
+
+}
